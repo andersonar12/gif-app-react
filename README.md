@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+Small practical application made with React, consuming an API to search for GIF's.
+
+![Screenshot](1.png)
+![Screenshot](2.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
